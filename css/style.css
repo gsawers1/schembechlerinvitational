@@ -133,6 +133,11 @@ body {
   margin-right: 2rem;
 }
 
+.facts-featurette{
+  margin-left: .7rem;
+  margin-right: 2rem;
+  opacity:0;
+}
 .facts-header{
   width: 100%;
 }
